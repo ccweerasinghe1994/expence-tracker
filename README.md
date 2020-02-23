@@ -19,3 +19,4 @@
    1. [Creating globalContext](./docs/contextapi.md)
    1. Giving access to GlobalState in other components
    1. [transaction list component,Add tranaction component](./docs/usingContextApi.md)
+1. Deploying the website
