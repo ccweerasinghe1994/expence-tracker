@@ -1,5 +1,5 @@
 
->To create a react functional components
+>To create a react functional components `rafc`
 ```jsx
 import React from 'react'
 
